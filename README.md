@@ -3,7 +3,7 @@ Note that this avatar setup works everywhere, but it's intended to be used only 
 ===========================================================================
 INSTALLATION:
 
-VRC fury: simply drag and drop the vrcfury prefab called "[VRCFury prefab] NSFWSecurity(do not unpack or modify)" in the root of your avatar and everything would be done.
+VRC fury: simply drag and drop the vrcfury prefab inside the vrc fury prefab folder in the root of your avatar and everything would be done.
 
 avatar 3 manager: follow the 4 step shown in the screenshot in the same folder than this README
 
