@@ -1,6 +1,6 @@
 Note that this avatar setup works everywhere, but it's intended to be used only in private instances, so if you use it in a public/friend+ instance, do so at your own risk. I am in no way responsible if you get caught/banned for using it in a public/friend+ instance.
 
-============================================================================
+===========================================================================
 INSTALLATION:
 
 VRC fury: simply drag and drop the vrcfury prefab called "[VRCFury prefab] NSFWSecurity(do not unpack or modify)" in the root of your avatar and everything would be done.
@@ -9,8 +9,8 @@ avatar 3 manager: follow the 4 step shown in the screenshot in the same folder t
 
 how to privatise my own asset ?: follow the how to secure screenshot in the same folder than this README
 
-============================================================================
-Explanation:
+===========================================================================
+EXPLANATION
 
 What if VRChat offered a way to make certain objects or animations private on your avatar? A way to make those objects visible only to your friends who have authorized it. With this setup, this is dead easy.
 
