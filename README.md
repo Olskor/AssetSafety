@@ -16,7 +16,7 @@ What if VRChat offered a way to make certain objects or animations private on yo
 
 If you use that tool to set up your avatar, only the people you allowed to use the avatar pose/interaction and who installed the asset will be able to see private assets on your avatar. You'll also have a button to bypass this safety and make everyone able to see your private assets.
 
-To be able to see the private assets of your friend that have the safety, you need to enable the mod and you both need to activate interaction (the yellow hand icon under the nametag) beetween each other. note that the assets animations updates only within 6 meter around the player because of avatar dynamics limitations.
+To be able to see the private assets of your friend that have the safety, you need to install and enable the asset and you both need to activate interaction (the yellow hand icon under the nametag) beetween each other. note that the assets animations updates only within 6 meter around the player because of avatar dynamics limitations.
 
 In this GitHub there's a full tutorial to setup your avatar with this safety, there's also a prefab asset here that provides all the stuff already premade for VRCFury and avatar 3 manager.
 
