@@ -5,9 +5,9 @@ INSTALLATION:
 
 VRC fury: simply drag and drop the vrcfury prefab inside the vrc fury prefab folder in the root of your avatar and everything would be done.
 
-avatar 3 manager: follow the 4 step shown in the screenshot in the same folder than this README
+avatar 3 manager: follow the 4 step shown in the screenshot in the tutorial folder
 
-how to privatise my own asset ?: follow the how to secure screenshot in the same folder than this README
+how to privatise my own asset ?: follow the how to secure screenshot in the tutorial folder
 
 ===========================================================================
 EXPLANATION
