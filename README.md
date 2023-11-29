@@ -1,4 +1,4 @@
-Note that this avatar setup works everywhere, but it's intended to be used only in private instances, so if you use it in a public/friend+ instance, do so at your own risk. I am in no way responsible if you get caught/banned for using it in a public/friend+ instance.
+Note that this avatar setup works everywhere, but it's intended to be used in the respect of vrchat rules and/or only in private instances, so if you use it in a public/friend+ instance, or you uses it to have features that break the rules of vrchat, do so at your own risk. I am in no way responsible if you get caught/banned for using it in those cases.
 
 ===========================================================================
 INSTALLATION:
