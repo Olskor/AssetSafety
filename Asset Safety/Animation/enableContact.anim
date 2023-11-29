@@ -33,7 +33,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Enabled
-    path: NSFWSecurity(do not unpack or modify)/ContactSender
+    path: AssetSafety(do not unpack or modify)/ContactSender
     classID: 114
     script: {fileID: -802764141, guid: 80f1b8067b0760e4bb45023bc2e9de66, type: 3}
   m_PPtrCurves: []
@@ -45,7 +45,7 @@ AnimationClip:
   m_ClipBindingConstant:
     genericBindings:
     - serializedVersion: 2
-      path: 1594522569
+      path: 4122101732
       attribute: 3305885265
       script: {fileID: -802764141, guid: 80f1b8067b0760e4bb45023bc2e9de66, type: 3}
       typeID: 114
@@ -89,7 +89,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_Enabled
-    path: NSFWSecurity(do not unpack or modify)/ContactSender
+    path: AssetSafety(do not unpack or modify)/ContactSender
     classID: 114
     script: {fileID: -802764141, guid: 80f1b8067b0760e4bb45023bc2e9de66, type: 3}
   m_EulerEditorCurves: []
