@@ -3,7 +3,11 @@ Note that this avatar setup works everywhere, but it's intended to be used in th
 ===========================================================================
 INSTALLATION:
 
-VRC fury: simply drag and drop the vrcfury prefab inside the vrc fury prefab folder in the root of your avatar and everything would be done.
+VRC fury:
+-open unity
+-go inside asset safety folder in unity
+-go inside the vrc fury prefab folder
+-take the asset safety prefab and drag and drop it in the root of your avatar in the hierarchy and everything would be done.
 
 avatar 3 manager: follow the 4 step shown in the screenshot in the tutorial folder
 
