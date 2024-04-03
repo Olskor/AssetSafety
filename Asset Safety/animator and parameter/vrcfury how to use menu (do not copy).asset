@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: vrcfury how to use menu (do not copy)
+  m_EditorClassIdentifier: 
+  controls:
+  - name: The "see other's NSFW" button allow you to see asset that's other securized
+      on their avatars. It only works if the other user allow interraction with you.
+      if you disable this option, don't forget to reload all the avatars in the world
+      to avoid seing unwanted stuff. note that disabling this will also make your
+      own asset not visible to yourself (you can avoid that if you want with an IsLocal
+      transition))
+    icon: {fileID: 2800000, guid: 7e5e4e85fc0223d4189675b53d8c38ff, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: By default the "see other's NSFW" button is activated and the "Global NSFW"
+      button is off, in that state In this state, it mean that all your secured assets
+      is only visible by the people who use asset safety AND are "allow interactions"
+      with you.
+    icon: {fileID: 0}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: The "Global NSFW" button is a bypass button. It will deactivate the asset
+      on your whole avatar. You will still be able to see other people hidden assets
+      but all your assets will now be visible for everyone without exception. Don't
+      forget to reload your avatar when you disable this feature to avoid unwanted
+      stuff to be visible by everyone.
+    icon: {fileID: 2800000, guid: 7b1c71655c278684a88cb315f60cc243, type: 3}
+    type: 101
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
