@@ -24,12 +24,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5273440582953730913}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8801261246373165871}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &8491770614571548958
 MonoBehaviour:
@@ -75,15 +76,16 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6030521031245384333}
+  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 75545318714890290}
   - {fileID: 558526903413628603}
   - {fileID: 1793399931359304368}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &6030521031245384338
 MonoBehaviour:
@@ -97,14 +99,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9e94e501a2d4c95bff3d5601013d923, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 2
-  config:
-    features:
-    - id: 0
+  version: 3
+  unityVersion: 2022.3.6f1
+  vrcfuryVersion: 1.822.0
   somethingIsBroken: 0
+  config:
+    features: []
+  content:
+    rid: 0
   references:
-    version: 1
-    00000000:
+    version: 2
+    RefIds:
+    - rid: 0
       type: {class: FullController, ns: VF.Model.Feature, asm: VRCFury}
       data:
         version: 4
@@ -113,29 +119,27 @@ MonoBehaviour:
             version: 1
             fileID: 0
             guid: 
-            id: 1de62820636e7ca49ba7cede6c455765|Assets/Asset Safety/Animator to
-              merge.controller
+            id: 1de62820636e7ca49ba7cede6c455765|Assets/Asset Safety/animator and
+              parameter/vrcfury animator (do not copy).controller
             objRef: {fileID: 9100000, guid: 1de62820636e7ca49ba7cede6c455765, type: 2}
           type: 5
-          ResetMePlease2: 0
         menus:
         - menu:
             version: 1
             fileID: 0
             guid: 
-            id: f8fabf4d2f754ea438f0ac7aa6bff24b|Assets/Asset Safety/Menu to add.asset
+            id: f8fabf4d2f754ea438f0ac7aa6bff24b|Assets/Asset Safety/animator and
+              parameter/vrcfury menu (do not copy).asset
             objRef: {fileID: 11400000, guid: f8fabf4d2f754ea438f0ac7aa6bff24b, type: 2}
           prefix: NSFW Security
-          ResetMePlease2: 0
         prms:
         - parameters:
             version: 1
             fileID: 0
             guid: 
-            id: 38d84b03521d2bf49849539adafa82bf|Assets/Asset Safety/Parameter to
-              merge.asset
+            id: 38d84b03521d2bf49849539adafa82bf|Assets/Asset Safety/animator and
+              parameter/vrcfury parameter.asset
             objRef: {fileID: 11400000, guid: 38d84b03521d2bf49849539adafa82bf, type: 2}
-          ResetMePlease2: 0
         smoothedPrms: []
         globalParams:
         - NSFWGlobal
@@ -145,7 +149,6 @@ MonoBehaviour:
         allNonsyncedAreGlobal: 0
         ignoreSaved: 0
         toggleParam: 
-        useSecurityForToggle: 0
         rootObjOverride: {fileID: 0}
         rootBindingsApplyToAvatar: 0
         rewriteBindings: []
@@ -171,6 +174,7 @@ MonoBehaviour:
         submenu: 
         removePrefixes: []
         addPrefix: 
+        useSecurityForToggle: 0
 --- !u!1 &7292200661667613800
 GameObject:
   m_ObjectHideFlags: 0
@@ -195,12 +199,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7292200661667613800}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8801261246373165871}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &5720881556065525008
 MonoBehaviour:
@@ -252,12 +257,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8892539301859811288}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 8801261246373165871}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &4543859274446135655
 MonoBehaviour:
